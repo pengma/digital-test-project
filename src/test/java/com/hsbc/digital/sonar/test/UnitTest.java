@@ -1,3 +1,5 @@
+package com.hsbc.digital.sonar.test;
+
 public class UnitTest {
 
     public static void main(String[] args) {
